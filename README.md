@@ -1,2 +1,2 @@
 # Java-Course
- Homework from csmu's java class.
+ CSMU java class.
